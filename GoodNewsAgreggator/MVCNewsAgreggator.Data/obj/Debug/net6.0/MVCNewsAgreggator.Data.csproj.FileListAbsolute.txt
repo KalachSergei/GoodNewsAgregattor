@@ -1,0 +1,14 @@
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\bin\Debug\net6.0\MVCNewsAgreggator.Data.deps.json
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\bin\Debug\net6.0\MVCNewsAgreggator.Data.runtimeconfig.json
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\bin\Debug\net6.0\MVCNewsAgreggator.Data.dll
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\bin\Debug\net6.0\MVCNewsAgreggator.Data.pdb
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\MVCNewsAgreggator.Data.csproj.AssemblyReference.cache
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\MVCNewsAgreggator.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\MVCNewsAgreggator.Data.AssemblyInfoInputs.cache
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\MVCNewsAgreggator.Data.AssemblyInfo.cs
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\MVCNewsAgreggator.Data.csproj.CoreCompileInputs.cache
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\MVCNewsAgreggator.Data.dll
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\refint\MVCNewsAgreggator.Data.dll
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\MVCNewsAgreggator.Data.pdb
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\MVCNewsAgreggator.Data.genruntimeconfig.cache
+D:\Coding\GoodNewsAgreggator\MVCNewsAgreggator.Data\obj\Debug\net6.0\ref\MVCNewsAgreggator.Data.dll

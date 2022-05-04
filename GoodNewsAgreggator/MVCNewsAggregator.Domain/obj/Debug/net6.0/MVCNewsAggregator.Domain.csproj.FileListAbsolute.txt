@@ -1,0 +1,12 @@
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\bin\Debug\net6.0\MVCNewsAggregator.Domain.deps.json
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\bin\Debug\net6.0\MVCNewsAggregator.Domain.dll
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\bin\Debug\net6.0\MVCNewsAggregator.Domain.pdb
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\MVCNewsAggregator.Domain.csproj.AssemblyReference.cache
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\MVCNewsAggregator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\MVCNewsAggregator.Domain.AssemblyInfoInputs.cache
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\MVCNewsAggregator.Domain.AssemblyInfo.cs
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\MVCNewsAggregator.Domain.csproj.CoreCompileInputs.cache
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\MVCNewsAggregator.Domain.dll
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\refint\MVCNewsAggregator.Domain.dll
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\MVCNewsAggregator.Domain.pdb
+D:\Coding\GoodNewsAgreggator\MVCNewsAggregator.Domain\obj\Debug\net6.0\ref\MVCNewsAggregator.Domain.dll
